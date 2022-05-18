@@ -57,6 +57,7 @@ While this Awesome list is one great resource for tracking the growth of the eco
 - [Messari](https://messari.io/asset/evmos): Providing market intelligence that drives high-conviction participation in crypto.
 - [NodeJumper](https://nodejumper.io/evmos): Providing installation and synchronization services, on-chain analytics and more. Cosmos has never been so easy yet.
 - [Reddit](https://evmos.reddit.com)
+- [UniWhales EVMOS Wallet Alerts](https://t.me/evmtrackerbot): Real time alerts for DEX swaps, LP add/remove, NFT mints/trades and more.
 
 ### Evmos Guides and How Tos
 
